@@ -1,0 +1,17 @@
+{
+  "author": "Dan Williams <me@deedubs.com> (http://deedubs.com/)",
+  "name": "stylus-bootstrap",
+  "description": "WIP",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/deedubs/stylus-bootstrap.git"
+  },
+  "main": "lib/stylus-bootstrap.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
